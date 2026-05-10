@@ -629,6 +629,7 @@ button {
 .about-info-item span {
   font-size: 13px;
   color: var(--text);
+  display: block;
 }
 
 .about-highlights {

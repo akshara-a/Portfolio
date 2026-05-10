@@ -5,7 +5,7 @@ export default function KnowledgePanel({ onNav }) {
     { label: "LinkedIn", href: PROFILE.links.linkedin, icon: "fa-brands fa-linkedin" },
     { label: "GitHub",   href: PROFILE.links.github,   icon: "fa-brands fa-github" },
     { label: "Email",    href: PROFILE.links.email,    icon: "fa-solid fa-envelope" },
-    { label: "Book",     href: "https://amzn.in/d/hNap5Yx", icon: "fa-solid fa-book" },
+    { label: "Book",     href: "https://www.amazon.in/stores/Aksh-A/author/B0GH8M2R2Q/allbooks", icon: "fa-solid fa-book" },
   ];
 
   return (
